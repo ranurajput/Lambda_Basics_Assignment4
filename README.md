@@ -7,22 +7,21 @@ Solution format. Submit your lambda expression in any valid format with ; on the
 >> Examples: (x, y) -> x + y; (x, y) -> { return x + y; };
 
 > Sample Input 1:
-0 1
-Sample Output 1:
+> 0 1
+> Sample Output 1:
+> 0
 
-0
 > Sample Input 2:
+> 2 2
+> Sample Output 2:
+> 2
 
-2 2
-Sample Output 2:
-
-2
 > Sample Input 3:
-1 4
-Sample Output 3:
-24
+> 1 4
+> Sample Output 3:
+> 24
 
 > Sample Input 4:
-5 15
-Sample Output 4:
-54486432000
+> 5 15
+> Sample Output 4:
+> 54486432000
